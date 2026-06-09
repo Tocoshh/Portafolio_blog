@@ -1,0 +1,20 @@
+/* Para el título principal */
+h1 {
+    font-family: "Black Ops One", system-ui;
+}
+
+/* Para los subtítulos (la que ya tenías) */
+h2 {
+    font-family: "Playwrite GB J", cursive;
+}
+a {
+    font-family: "Lobster Two", sans-serif;
+}
+
+.imagen_de_lorax {
+    width: 150px;
+}
+
+.imagen_de_miku {
+    width: 150px;
+}
