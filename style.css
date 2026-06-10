@@ -13,8 +13,25 @@ a {
 
 .imagen_de_lorax {
     width: 150px;
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
 }
 
 .imagen_de_miku {
+    border-radius: 20px;
     width: 150px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+}
+
+div {
+    background-color:rgb(197, 197, 29);
+}
+
+#fecha_de_proyecto {
+    font-size: 30px;
+    color: green;
+    font-family: "Lobster Two", sans-serif;
 }
