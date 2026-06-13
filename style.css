@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: "Lobster Two", sans-serif;
+}
 /* Para el título principal */
 h1 {
     font-family: "Black Ops One", system-ui;
@@ -26,8 +32,18 @@ a {
     border-style: solid;
 }
 
-div {
+.saturno {
     background-color:rgb(197, 197, 29);
+    width: 300px;
+    height: 300px;
+    margin: 50px 50px 100px 100px;
+}
+
+.marte {
+    background-color: rgb(129, 131, 30);
+    width: 100px;
+    height: 100px;
+    margin: 120px;
 }
 
 #fecha_de_proyecto {
